@@ -21,11 +21,12 @@ a {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 
 .accent {
-  color: #4d5ae5;
+    color: #2e2f42;
+
 }
 
 .header-menu-link1 {
@@ -226,11 +227,11 @@ color: #434455;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
+    color: #4d5ae5;
 }
 
 .accent-end {
-  color: #4d5ae5;
+color: #f4f4fd;
 }
 
 .end-title {
